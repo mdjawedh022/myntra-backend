@@ -3231,7 +3231,713 @@
       ],
       "rating": 3.8,
       "rating_count": 8
-    }
+    },
+    {"id": "H1",
+    "category": "Home",
+    "brand": "Saral Home",
+    "title": "Solid Anti-Skid Floor Runner",
+    "discounted_price":999,
+    "strike_price": "Rs. 1999",
+    "discount": "(50% OFF)",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13374274/2022/1/1/688a720d-1c14-4886-9937-8356d51a97601641030183026SaralHomePurplePinkSolidAnti-SkidFloorRunner1.jpg",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "rating": 4.4,
+    "rating_count": 5
+  },
+ 
+  {
+   
+    "id": "H2",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/9/9/521d9fe0-0c1c-4926-a948-523f117f55131599600829273-1.jpg",
+    "brand": "HOSTA HOMES",
+    "title": "Abstract Pattern Shaggy Fur Bed Side Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+
+    "discounted_price":1199,
+    "strike_price": "Rs. 1999",
+    "discount": "(40% OFF)",
+    "rating": 4.3,
+    "rating_count": 7,
+    "product-separator": "|"
+  },
+  {
+    "id": "H3",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22205150/2023/3/2/d84d85bd-7595-4ffc-ba63-d4f3f60b5c241677769415740ClasikoBedsideRunnerCarpetRugWithAntiSkidBacking57x140cmsBei1.jpg",
+    "brand": "Clasiko",
+    "title": "Checked Anti-Skid Bedside Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 1997,
+    "strike_price": "Rs. 3995",
+    "discount": "(50% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H4",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15571762/2021/9/23/e39d3135-d915-4ae9-a60e-b60ed44821cd1632380357753KuberIndustriesFluffyShaggyRugBedsideRunnerForHomeDecorSkyBl1.jpg",
+    "brand": "Kuber Industries",
+    "title": "Solid Fluffy Shaggy Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":614,
+    "strike_price": "Rs. 1499",
+    "discount": "(59% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H5",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/9/9/67e980cc-0d66-4d21-82fc-2ddbea4315ed1599601854097-1.jpg",
+    "brand": "HOSTA HOMES",
+    "title": "Geometric Shaggy Fur Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":1349,
+    "strike_price": "Rs. 2999",
+    "discount": "(55% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "https://www.myntra.com/runners/disney/disney/11333104/buy",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/1/16/55f7a0b5-0295-464e-9479-e8163df7ab881579128864503-1.jpg",
+    "brand": "Disney",
+    "title": "Kids Cars Printed Floor Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 1299,
+    "strike_price": "Rs. 1999",
+    "discount": "(35% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H6",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16196282/2021/11/22/c3fa9b96-4d04-4ca5-abfd-616742a532581637569946299ArrabiRedMaroonGeometricBedRunner1.jpg",
+    "brand": "Arrabi",
+    "title": "Geometric Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 1212,
+    "strike_price": "Rs. 4329",
+    "discount": "(72% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H7",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15702316/2021/10/2/358cd2f3-75d6-4fa4-86a2-5ef246f415881633113866058AthomTrendzBlueMaroonGeometricPrintedPremiumAntiSkidRunnerCa1.jpg",
+    "brand": "Athom Trendz",
+    "title": "Geometric Printed Premium Anti Skid Runner Carpet",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 1199,
+    "strike_price": "Rs. 1999",
+    "discount": "(40% OFF)",
+    "rating": 4.8,
+    "rating_count": 8,
+    "product-separator": "|"
+  },
+  {
+    "id": "H8",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/3/17/bc654908-900d-4219-8fa8-b2ae83e272641615955801081-1.jpg",
+    "brand": "Athom Trendz",
+    "title": "Printed Anti-Skid Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 1199,
+    "strike_price": "Rs. 1999",
+    "discount": "(40% OFF)",
+    "rating": 4.4,
+    "rating_count": 10,
+    "product-separator": "|"
+  },
+  {
+    "id": "H9",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21243088/2022/12/19/e1e4190f-189f-4483-819c-7f7a3445735c1671444649642KuberIndustriesBrownStripedAnti-SkidBedRunners1.jpg",
+    "brand": "Kuber Industries",
+    "title": "Striped Anti-Skid Bed Runners",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":704,
+    "strike_price": "Rs. 1599",
+    "discount": "(56% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H10",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9059375/2022/1/1/f00d7274-3da3-46cc-9a31-5011e92e7d671641030151935SaralHomeBeigeHandloomGeometricRunner1.jpg",
+    "brand": "Saral Home",
+    "title": "Geometric Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 599,
+    "strike_price": "Rs. 999",
+    "discount": "(40% OFF)",
+    "rating": 4.6,
+    "rating_count": 8,
+    "product-separator": "|"
+  },
+  {
+    "id": "H11",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9059397/2022/1/1/be66b86f-2a58-4b3d-bb39-41f3a8d735621641030244963SaralHomeGreenSolidAnti-SlipRunner1.jpg",
+    "brand": "Saral Home",
+    "title": "Solid Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":599,
+    "strike_price": "Rs. 999",
+    "discount": "(40% OFF)",
+    "rating": 4.5,
+    "rating_count": 15,
+    "product-separator": "|"
+  },
+  {
+    "id": "H12",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/1/54f7cdf7-08f0-433e-bdef-60862d77f87f1617262367566-1.jpg",
+    "brand": "HOSTA HOMES",
+    "title": "Fur Ultra-Soft Anti-Skid Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 1349,
+    "strike_price": "Rs. 2999",
+    "discount": "(55% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H13",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/3/17/74578db6-bd69-4f70-ab6c-75a715dc4cf61615957029763-1.jpg",
+    "brand": "Athom Trendz",
+    "title": "Abstract Printed Anti-Skid Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":1199,
+    "strike_price": "Rs. 1999",
+    "discount": "(40% OFF)",
+    "rating": 4.9,
+    "rating_count": 8,
+    "product-separator": "|"
+  },
+  {
+    "id": "H14",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/6/1e4d6563-15cd-42cb-8f8e-0f4752502cf91609924868563-1.jpg",
+    "brand": "Saral Home",
+    "title": "Floral Anti-Skid Floor Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 998,
+    "strike_price": "Rs. 1999",
+    "discount": "(50% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H15",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/6/ef803c7a-9945-4dbc-b059-98a0026bdff11609928886986-1.jpg",
+    "brand": "Saral Home",
+    "title": "Printed Anti-Skid Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":999,
+    "strike_price": "Rs. 1999",
+    "discount": "(50% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H16",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13374198/2022/1/1/988f46a3-67f3-4387-9a95-e7cbf5b21aa11641030203550SaralHomeGreyYellowColourblockedAnti-SkidBedRunner1.jpg",
+    "brand": "Saral Home",
+    "title": "Colourblocked Anti-Skid Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":999,
+    "strike_price": "Rs. 1999",
+    "discount": "(50% OFF)",
+    "rating": 4.3,
+    "rating_count": 18,
+    "product-separator": "|"
+  },
+  {
+    "id": "H17",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19208786/2022/7/21/31663675-b193-4a41-808e-5bf1e63987cc1658405967091Runners1.jpg",
+    "brand": "Saral Home",
+    "title": "Cotton Anti-Skid Runner Mats",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":  959,
+    "strike_price": "Rs. 1599",
+    "discount": "(40% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H18",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9059389/2022/1/1/2dd94058-61ed-4fd9-9551-904e07c5afb21641030263170SaralHomeBlueHandloomSolidRunner1.jpg",
+    "brand": "Saral Home",
+    "title": "Solid Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 599,
+    "strike_price": "Rs. 999",
+    "discount": "(40% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H19",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/17/c4e14080-5f17-4c1e-91d0-167e89bfa52c1618659878704-1.jpg",
+    "brand": "Status",
+    "title": "Floral Printed Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 453,
+    "strike_price": "Rs. 999",
+    "discount": "",
+    "rating": 3.9,
+    "rating_count": 10,
+    "product-separator": "|"
+  },
+  {
+    "id": "H20",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17903716/2022/4/16/c7f4234b-3b56-4041-b90f-8541fe489a6e1650110989966Runners1.jpg",
+    "brand": "LUXEHOME INTERNATIONAL",
+    "title": "Striped Floor Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 779,
+    "strike_price": "Rs. 1299",
+    "discount": "(40% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H21",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/4/1/6ba73565-9946-49d5-b068-21aef5a4fa571617270633366-1.jpg",
+    "brand": "HOSTA HOMES",
+    "title": "Printed Anti-Skid Table Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 1349,
+    "strike_price": "Rs. 2999",
+    "discount": "(55% OFF)",
+    "rating": "",
+    "rating_count": "",
+    "product-separator": ""
+  },
+  {
+    "id": "H22",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/9/8/d6d42a32-4ecd-4074-a76d-b6f0094fdf841599520286392-1.jpg",
+    "brand": "HOSTA HOMES",
+    "title": "Solid Shaggy Fur Bed Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price":1349,
+    "strike_price": "Rs. 2999",
+    "discount": "(55% OFF)",
+    "rating": 3.8,
+    "rating_count": 6,
+    "product-separator": "|"
+  },
+  {
+    "id": "H23",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9059371/2022/1/1/b0c3986c-dcbc-4478-9b60-3e9b1d01d0ea1641030159085SaralHomeGreenBeigeHandloomGeometricRunner1.jpg",
+    "brand": "Saral Home",
+    "title": "Geometric Runner",
+   "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ],
+    "discounted_price": 599,
+    "strike_price": "Rs. 999",
+    "discount": "(40% OFF)",
+    "rating": 3.4,
+    "rating_count": 5,
+    "product-separator": "|"
+  },
+  {
+     "id":  "H24",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/21243084/2022/12/19/2b70fcb4-48fc-4553-9c58-508c3a6e00371671444145654KuberIndustriesMaroonStripedAnti-SkidRunners1.jpg",
+    "brand": "Kuber Industries",
+    "title": "Striped Anti-Skid Runners",
+    "discounted_price": 703,
+    "product-strike": "Rs. 1599",
+    "discount": "(56% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":"H25",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19761648/2022/9/28/6c997dc1-e953-47ab-ad12-e88c8743e9501664345924939-OBSESSIONS-Yellow-Abstract-Runner-2671664345924410-1.jpg",
+    "brand": "OBSESSIONS",
+    "title": "Abstract Runner",
+    "discounted_price":2847,
+    "product-strike": "Rs. 3350",
+    "discount": "(15% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H26",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19208860/2022/7/21/9b5e87c6-03f9-4e24-9dea-32a4908b03c11658401449711Runners1.jpg",
+    "brand": "Saral Home",
+    "title": "Printed Cotton Runners",
+    "discounted_price":1049,
+    "product-strike": "Rs. 1499",
+    "discount": "(30% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H27",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19208846/2022/7/21/a4d7dd64-9ab3-4e65-9c9e-2232a1b9a6311658404602467Runners1.jpg",
+    "brand": "Saral Home",
+    "title": "Cotton Anti-Skid Bed Runners",
+    "discounted_price":959,
+    "product-strike": "Rs. 1599",
+    "discount": "(40% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H28",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19208800/2022/7/21/cecc1963-ac91-4999-b79a-f5349084ff721658402933696Runners1.jpg",
+    "brand": "Saral Home",
+    "title": "Solid Cotton Kitchen Floor Runners",
+    "discounted_price": 958,
+    "product-strike": "Rs. 1589",
+    "discount": "(40% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H29",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19208766/2022/7/21/3b07f411-0719-4f78-9f8d-73f2e2df14941658402184041Runners1.jpg",
+    "brand": "Saral Home",
+    "title": "Printed Runners",
+    "discounted_price":599,
+    "product-strike": "Rs. 749",
+    "discount": "(20% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H30",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19208756/2022/7/21/61519379-10e5-4e53-9da6-b998e3f79ad21658405983555Runners1.jpg",
+    "brand": "Saral Home",
+    "title": "Floral Printed Floor Runners",
+    "discounted_price":999,
+    "product-strike": "Rs. 1999",
+    "discount": "(50% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H31",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17454348/2022/3/9/da94b86a-df6e-444a-ae16-b958ea6b16c91646822851856Runners1.jpg",
+    "brand": "S9home by Seasons",
+    "title": "Bed Runner & 2 Cushion covers",
+    "discounted_price":1319,
+    "product-strike": "Rs. 2199",
+    "discount": "(40% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H32",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17454340/2022/3/9/c54f481f-58fd-4b02-a7bf-220575a96ae91646823299346Runners1.jpg",
+    "brand": "S9home by Seasons",
+    "title": "Bed Runner with Cushion Covers",
+    "discounted_price":899,
+    "product-strike": "Rs. 1499",
+    "discount": "(40% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H33",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16196300/2021/11/22/449d8ad4-07a7-47d8-b800-a9f532708c541637573341430ArrabiBlackGreyGeometricBedRunner1.jpg",
+    "brand": "Arrabi",
+    "title": "Geometric Bed Runner",
+    "discounted_price":1212,
+    "product-strike": "Rs. 4329",
+    "discount": "(72% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  },
+  {
+     "id":  "H34",
+    "images": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16196298/2021/11/22/d8e14ac1-ecee-415f-b2e4-a2e0137c8c041637568649292ArrabiGreenSolidBedRunner1.jpg",
+    "brand": "Arrabi",
+    "title": "Solid Bed Runner",
+    "discounted_price": 1213,
+    "product-strike": "Rs. 4328",
+    "discount": "(72% OFF)",
+    "size": [
+      "S",
+      "M",
+      "L, ",
+      "X",
+      "XL",
+      "XXL",
+      "XXXL"
+    ]
+  }
+  
+
   ],
   
   "cart": [],
